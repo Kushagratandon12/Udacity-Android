@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="hotel_court_name">Courtyard Bhopal</string>
+    <string name="hotel_court_addr">DB City Hall, K-2, Hoshangabad Rd, Opposite Hypercity, Arera Hills, Bhopal, Madhya Pradesh 462011</string>
+    <string name="hotel_jehen_name">Jehan Numa Palace Hotel</string>
+    <string name="hotel_jehen_addr">157, Shamla Hill, Bhopal, Madhya Pradesh 462013</string>
+    <string name="mall_ashima_name">Ashima Mall</string>
+    <string name="mall_ashima_addr">Hoshangabad Road, Bawadia Kalan, Danish Nagar, Danish Nagar, Bagmugaliya, Bhopal, Madhya Pradesh 462026</string>
+    <string name="mall_c21_addr">Hoshangabad Road, near Barkatullah University, Misrod, Misrod, Bhopal, Madhya Pradesh 462047</string>
+    <string name="mall_c21_name">Century 21 Mall</string>
+    <string name="rest_mark_name">The Mark Restaurant</string>
+    <string name="rest_mark_addr">Misrod, Bhopal, Madhya Pradesh 462047</string>
+    <string name="rest_mos_addr">Hosangabad Road, Near Ranjeet Nisan, Misrod, Bhopal, Madhya Pradesh 462026</string>
+    <string name="rest_mos_name">Hotel Mosaic</string>
+    <string name="sch_asani_name">Asnani School</string>
+    <string name="sch_asani_addr">Katara Hills Rd, Near Pebble Bay, Katara Hills, Bagmugaliya, Bhopal, Madhya Pradesh 462043</string>
+    <string name="sch_kend_addr">Hoshangabad Road, Shriramsharnam Colony, Bagmugaliya, Bhopal, Madhya Pradesh 462026</string>
+    <string name="sch_kend_name">Kendriya Vidyalaya No. 3, Bhopal</string>
+
+</resources>
